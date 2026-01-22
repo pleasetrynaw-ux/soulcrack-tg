@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x Spike
-    - run: sudo ./Spike 52.140.2.176 28133 200 512 100
+    - run: sudo ./Spike 20.235.143.118 25144 200 512 100
